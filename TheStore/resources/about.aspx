@@ -43,7 +43,7 @@
     <header class="bg-dark py-5">
         <div class="text-center my-5">
             <img class="img-fluid rounded-circle mb-1" style="height: 150px;" src="assets/avatar.png" alt="..." />
-            <h1 class="text-light fs-3 fw-bolder">Rutvik</h1>
+            <h1 class="text-light fs-3 fw-bolder">StuckBot</h1>
             <p class="text-white-50 mb-0">Interning</p>
         </div>
     </header>
